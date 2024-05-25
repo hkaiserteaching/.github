@@ -11,12 +11,14 @@ Department of Computer Science, Louisiana State University, [hkaiser@cct.lsu.edu
 
 ## Current Teaching
 
-- [Spring 2024: CSC 3380 Object Oriented Programming using Modern C++][csc3380_spring2024]
+- [Fall 2024: CSC 4103 Operating Systems][csc4103_fall2024]
 
 ## Previous Teaching
 
-- [Fall 2023: CSC 3380 Object Oriented Programming using Modern C++][csc3380_fall2023]
+- [Spring 2024: CSC 3380 Object Oriented Programming using Modern C++][csc3380_spring2024]
+<!-- - [Fall 2023: CSC 3380 Object Oriented Programming using Modern C++][csc3380_fall2023] -->
 
-[csc3380_fall2023]: https://hkaiserteaching.github.io/fall2023/csc3380/
-[csc3380_spring2024]: https://hkaiserteaching.github.io/spring2024/csc3380/
+<!-- [csc3380_fall2023]: https://hkaiserteaching.github.io/fall2023/csc3380/README.html -->
+[csc3380_spring2024]: https://hkaiserteaching.github.io/spring2024/csc3380/README.html
+[csc4103_fall2024]: https://hkaiserteaching.github.io/fall2024/csc4103/README.html
 [email]: mailto:hkaiser@cct.lsu.edu
