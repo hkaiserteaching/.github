@@ -9,20 +9,19 @@ Hartmut is a professor at Louisiana State University. He is probably best known 
 
 Department of Computer Science, Louisiana State University, [hkaiser@cct.lsu.edu][email]
 
-## Current Teaching
+## Current Teaching (Fall 2025)
 
-- [Spring 2025: CSC 4103 Operating Systems][csc4103_spring2025]
-- [Spring 2025: CSC 4700 Parallel C++ for Scientific Computing][csc4700_spring2025]
+- [CSC 7103 Advanced Operating Systems][csc7103_fall2025]
 
 ## Previous Teaching
 
-- [Spring 2024: CSC 3380 Object Oriented Programming using Modern C++][csc3380_spring2024]
-<!-- - [Fall 2024: CSC 4103 Operating Systems][csc4103_fall2024] -->
-<!-- - [Fall 2023: CSC 3380 Object Oriented Programming using Modern C++][csc3380_fall2023] -->
+- [CSC 4103 Operating Systems (Spring 2025)][csc4103_spring2025]
+- [CSC 4700 Parallel C++ for Scientific Applications (Spring 2025)][csc4700_spring2025]
+- [CSC 3380 Object Oriented Programming using Modern C++ (Spring 2024)][csc3380_spring2024]
 
-<!-- [csc3380_fall2023]: https://hkaiserteaching.github.io/fall2023/csc3380/ -->
 [csc3380_spring2024]: https://hkaiserteaching.github.io/spring2024/csc3380/
-<!-- [csc4103_fall2024]: https://hkaiserteaching.github.io/fall2024/csc4103/ -->
 [csc4103_spring2025]: https://hkaiserteaching.github.io/spring2025/csc4103/
 [csc4700_spring2025]: https://hkaiserteaching.github.io/spring2025/csc4700/
+[csc7103_fall2025]: https://hkaiserteaching.github.io/fall2025/csc7103/
+
 [email]: mailto:hkaiser@cct.lsu.edu
